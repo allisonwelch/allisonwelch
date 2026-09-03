@@ -9,7 +9,7 @@
 
 ## 🧍‍♀️ About Me  
 
-I am a Postdoctoral Research Fellow in Katey Walter Anthony's lab in the Water and Environmental Research Center at the University of Alaska, Fairbanks. I recieved my PhD in Earth System Science from the University of California, Irvine in June, 2025 and my BS in Environmental Science from the University of Florida in May, 2020 (go gators🐊).
+I am a Postdoctoral Research Fellow in Katey Walter Anthony's lab in the Water and Environmental Research Center at the University of Alaska, Fairbanks. I recieved my PhD in Earth System Science from the University of California, Irvine in June 2025 and my BS in Environmental Science from the University of Florida in May 2020 (go gators🐊).
 
 My current research is focused on developing remote sensing methods for quantification of methane ebullition from high-latitude lakes.
 
